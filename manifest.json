@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Dark Theme Extension",
+  "version": "1.0",
+  "description": "Toggle dark theme for any website.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
